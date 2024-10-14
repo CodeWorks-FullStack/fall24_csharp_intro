@@ -44,3 +44,15 @@ if (age > 33 && !ateBreakfast)
 string nameThatDoesNotExist; // null
 int numberThatDoesNotExist; // 0
 bool boolThatDoesNotExist; // false
+
+// NOTE arrays are stupid
+string[] favoriteFoods = ["Hot wings", "Macaroni and cheese", "Tom Yum soup"];
+
+Console.WriteLine(favoriteFoods[0]);
+
+for (int i = 0; i < favoriteFoods.Length; i++)
+{
+  string food = favoriteFoods[i];
+  Console.WriteLine(food);
+}
+

@@ -12,3 +12,4 @@ C:\Users\JeremysSurface\source\Codeworks\2024_fall\csharp_intro\obj\Debug\net8.0
 C:\Users\JeremysSurface\source\Codeworks\2024_fall\csharp_intro\obj\Debug\net8.0\csharp_intro.pdb
 C:\Users\JeremysSurface\source\Codeworks\2024_fall\csharp_intro\obj\Debug\net8.0\csharp_intro.genruntimeconfig.cache
 C:\Users\JeremysSurface\source\Codeworks\2024_fall\csharp_intro\obj\Debug\net8.0\ref\csharp_intro.dll
+C:\Users\JeremysSurface\source\Codeworks\2024_fall\csharp_intro\obj\Debug\net8.0\csharp_intro.sourcelink.json
